@@ -1,0 +1,35 @@
+commit c156f581b750b6de812f96e1e8b06ae2052f43d3
+Author: Ramon <ramon.cervantes@umu.se>
+Date:   Tue Oct 9 14:29:13 2018 +0200
+
+    some modifications
+
+commit ce4a3c7e39dbe0b26286fd45302ddfeea965b0c5
+Author: Ramon <ramon.cervantes@umu.se>
+Date:   Tue Oct 9 14:23:24 2018 +0200
+
+    more complicated
+
+commit 86c9724ee32c85e6ec1b2b83c9a2e24c9fd2712b
+Author: Ramon <ramon.cervantes@umu.se>
+Date:   Tue Oct 9 14:21:51 2018 +0200
+
+    deleted line
+
+commit c657ed60c6f25c2d7955452fb543b2dfc1902e8f
+Author: Ramon <ramon.cervantes@umu.se>
+Date:   Tue Oct 9 14:19:46 2018 +0200
+
+    complicated
+
+commit 08ac9cf20b0bbe847090a94dda2da587c0818b65
+Author: Ramon <ramon.cervantes@umu.se>
+Date:   Tue Oct 9 14:10:18 2018 +0200
+
+    added stuff about base
+
+commit 4663d3ec651c0b2bafb3218e207ea247fba16fe9
+Author: Ramon <ramon@client230-167.wireless.umu.se>
+Date:   Tue Oct 9 13:54:01 2018 +0200
+
+    Created the file mars.txt
